@@ -1,0 +1,198 @@
+D:/_Cursos_Macoratti/Curso_Clean_Archictecture_Essencial/14_Migracao_NET7/CleanArchMvc1/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.csproj.AssemblyReference.cache
+D:/_Cursos_Macoratti/Curso_Clean_Archictecture_Essencial/14_Migracao_NET7/CleanArchMvc1/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.GeneratedMSBuildEditorConfig.editorconfig
+D:/_Cursos_Macoratti/Curso_Clean_Archictecture_Essencial/14_Migracao_NET7/CleanArchMvc1/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.AssemblyInfoInputs.cache
+D:/_Cursos_Macoratti/Curso_Clean_Archictecture_Essencial/14_Migracao_NET7/CleanArchMvc1/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.AssemblyInfo.cs
+D:/_Cursos_Macoratti/Curso_Clean_Archictecture_Essencial/14_Migracao_NET7/CleanArchMvc1/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.csproj.CoreCompileInputs.cache
+D:/_Cursos_Macoratti/Curso_Clean_Archictecture_Essencial/14_Migracao_NET7/CleanArchMvc1/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/appsettings.Development.json
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/appsettings.json
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.API
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.API.deps.json
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.API.runtimeconfig.json
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.API.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.API.pdb
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.API.xml
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/AutoMapper.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Azure.Core.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Azure.Identity.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Humanizer.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/MediatR.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/MediatR.Contracts.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/System.CodeDom.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.Application.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.Domain.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.Infra.Data.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.Infra.IoC.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.Infra.IoC.pdb
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.Application.pdb
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.Domain.pdb
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.Infra.Data.pdb
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.csproj.AssemblyReference.cache
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.AssemblyInfoInputs.cache
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.AssemblyInfo.cs
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.csproj.CoreCompileInputs.cache
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/obj/Debug/net7.0/staticwebassets/msbuild.CleanArchMvc.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/obj/Debug/net7.0/staticwebassets/msbuild.build.CleanArchMvc.API.props
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CleanArchMvc.API.props
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CleanArchMvc.API.props
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/obj/Debug/net7.0/staticwebassets.build.json
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/obj/Debug/net7.0/staticwebassets.development.json
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/obj/Debug/net7.0/scopedcss/bundle/CleanArchMvc.API.styles.css
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.csproj.CopyComplete
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/obj/Debug/net7.0/refint/CleanArchMvc.API.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.xml
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.pdb
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.genruntimeconfig.cache
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.API/obj/Debug/net7.0/ref/CleanArchMvc.API.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/appsettings.Development.json
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/appsettings.json
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.API
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.API.deps.json
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.API.runtimeconfig.json
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.API.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.API.pdb
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.API.xml
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/AutoMapper.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Azure.Core.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Azure.Identity.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Humanizer.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/MediatR.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/MediatR.Contracts.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/System.CodeDom.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.Application.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.Domain.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.Infra.Data.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.Infra.IoC.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.Infra.IoC.pdb
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.Application.pdb
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.Domain.pdb
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/bin/Debug/net7.0/CleanArchMvc.Infra.Data.pdb
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.csproj.AssemblyReference.cache
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.AssemblyInfoInputs.cache
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.AssemblyInfo.cs
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.csproj.CoreCompileInputs.cache
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/obj/Debug/net7.0/staticwebassets/msbuild.CleanArchMvc.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/obj/Debug/net7.0/staticwebassets/msbuild.build.CleanArchMvc.API.props
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CleanArchMvc.API.props
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CleanArchMvc.API.props
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/obj/Debug/net7.0/staticwebassets.build.json
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/obj/Debug/net7.0/staticwebassets.development.json
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/obj/Debug/net7.0/scopedcss/bundle/CleanArchMvc.API.styles.css
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.csproj.CopyComplete
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/obj/Debug/net7.0/refint/CleanArchMvc.API.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.xml
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.pdb
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/obj/Debug/net7.0/CleanArchMvc.API.genruntimeconfig.cache
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.API/obj/Debug/net7.0/ref/CleanArchMvc.API.dll

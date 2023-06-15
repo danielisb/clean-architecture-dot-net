@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{5149593A-9B16-401D-927E-A3C05DF78A07}|Default">
+  <MonoDevelop.Ide.ItemProperties.CleanArchMvc.Domain.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CleanArchMvc.API PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MultiItemStartupConfigurations />
+</Properties>

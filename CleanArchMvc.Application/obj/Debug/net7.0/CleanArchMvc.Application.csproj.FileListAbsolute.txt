@@ -1,0 +1,45 @@
+D:/_Cursos_Macoratti/Curso_Clean_Archictecture_Essencial/14_Migracao_NET7/CleanArchMvc1/CleanArchMvc.Application/bin/Debug/net7.0/CleanArchMvc.Application.deps.json
+D:/_Cursos_Macoratti/Curso_Clean_Archictecture_Essencial/14_Migracao_NET7/CleanArchMvc1/CleanArchMvc.Application/bin/Debug/net7.0/CleanArchMvc.Application.dll
+D:/_Cursos_Macoratti/Curso_Clean_Archictecture_Essencial/14_Migracao_NET7/CleanArchMvc1/CleanArchMvc.Application/bin/Debug/net7.0/CleanArchMvc.Application.pdb
+D:/_Cursos_Macoratti/Curso_Clean_Archictecture_Essencial/14_Migracao_NET7/CleanArchMvc1/CleanArchMvc.Application/bin/Debug/net7.0/CleanArchMvc.Domain.dll
+D:/_Cursos_Macoratti/Curso_Clean_Archictecture_Essencial/14_Migracao_NET7/CleanArchMvc1/CleanArchMvc.Application/bin/Debug/net7.0/CleanArchMvc.Domain.pdb
+D:/_Cursos_Macoratti/Curso_Clean_Archictecture_Essencial/14_Migracao_NET7/CleanArchMvc1/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.csproj.AssemblyReference.cache
+D:/_Cursos_Macoratti/Curso_Clean_Archictecture_Essencial/14_Migracao_NET7/CleanArchMvc1/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:/_Cursos_Macoratti/Curso_Clean_Archictecture_Essencial/14_Migracao_NET7/CleanArchMvc1/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.AssemblyInfoInputs.cache
+D:/_Cursos_Macoratti/Curso_Clean_Archictecture_Essencial/14_Migracao_NET7/CleanArchMvc1/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.AssemblyInfo.cs
+D:/_Cursos_Macoratti/Curso_Clean_Archictecture_Essencial/14_Migracao_NET7/CleanArchMvc1/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+D:/_Cursos_Macoratti/Curso_Clean_Archictecture_Essencial/14_Migracao_NET7/CleanArchMvc1/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.csproj.CopyComplete
+D:/_Cursos_Macoratti/Curso_Clean_Archictecture_Essencial/14_Migracao_NET7/CleanArchMvc1/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.dll
+D:/_Cursos_Macoratti/Curso_Clean_Archictecture_Essencial/14_Migracao_NET7/CleanArchMvc1/CleanArchMvc.Application/obj/Debug/net7.0/refint/CleanArchMvc.Application.dll
+D:/_Cursos_Macoratti/Curso_Clean_Archictecture_Essencial/14_Migracao_NET7/CleanArchMvc1/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.pdb
+D:/_Cursos_Macoratti/Curso_Clean_Archictecture_Essencial/14_Migracao_NET7/CleanArchMvc1/CleanArchMvc.Application/obj/Debug/net7.0/ref/CleanArchMvc.Application.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.Application/bin/Debug/net7.0/CleanArchMvc.Application.deps.json
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.Application/bin/Debug/net7.0/CleanArchMvc.Application.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.Application/bin/Debug/net7.0/CleanArchMvc.Application.pdb
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.Application/bin/Debug/net7.0/CleanArchMvc.Domain.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.Application/bin/Debug/net7.0/CleanArchMvc.Domain.pdb
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.csproj.AssemblyReference.cache
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.AssemblyInfoInputs.cache
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.AssemblyInfo.cs
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.csproj.CopyComplete
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.Application/obj/Debug/net7.0/refint/CleanArchMvc.Application.dll
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.pdb
+/Users/daniellisboa/Mine/Education/Cursos/Clean Architecture Essencial - ASP .NET Core/CleanArchMvc/CleanArchMvc.Application/obj/Debug/net7.0/ref/CleanArchMvc.Application.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.Application/bin/Debug/net7.0/CleanArchMvc.Application.deps.json
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.Application/bin/Debug/net7.0/CleanArchMvc.Application.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.Application/bin/Debug/net7.0/CleanArchMvc.Application.pdb
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.Application/bin/Debug/net7.0/CleanArchMvc.Domain.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.Application/bin/Debug/net7.0/CleanArchMvc.Domain.pdb
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.csproj.AssemblyReference.cache
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.AssemblyInfoInputs.cache
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.AssemblyInfo.cs
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.csproj.CoreCompileInputs.cache
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.csproj.CopyComplete
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.Application/obj/Debug/net7.0/refint/CleanArchMvc.Application.dll
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.Application/obj/Debug/net7.0/CleanArchMvc.Application.pdb
+/Users/daniellisboa/Projects/clean-architecture-dot-net/CleanArchMvc.Application/obj/Debug/net7.0/ref/CleanArchMvc.Application.dll
